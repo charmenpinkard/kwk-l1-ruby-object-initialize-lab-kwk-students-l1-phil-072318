@@ -7,4 +7,4 @@ class Person
     @person 
   end 
 end 
-  mandi = person.new(@person)
+  mandi = person.new("return_person")
