@@ -10,4 +10,4 @@ class Person
   def return_mandi 
     @mandi 
 end 
-  mandi = person.new("mandi")
+  puts mandi = return_person.new("mandi")
