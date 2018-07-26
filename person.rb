@@ -7,4 +7,4 @@ class Person
     @person 
   end 
 end 
-  person = mandi.new("mandi")
+  person = mandi.new("person")
