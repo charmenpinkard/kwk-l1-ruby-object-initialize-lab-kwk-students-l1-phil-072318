@@ -11,3 +11,4 @@ class Person
     @mandi 
 end 
   puts mandi = return_person.new("mandi")
+end 
