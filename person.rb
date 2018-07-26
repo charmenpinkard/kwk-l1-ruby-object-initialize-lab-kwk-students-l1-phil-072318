@@ -10,3 +10,6 @@ class Person
 
   mandi = Person.new("mandi")
 end 
+
+puts return_person 
+
