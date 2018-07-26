@@ -1,10 +1,10 @@
 class Person
   
   def initialize(person)
-    @person = mandi
+    @mandi = person 
   end
   def return_person
-    @person 
+    @person = person 
   end 
 end 
-  mandi = person.new("return_person")
+  mandi = person.new("mandi")
